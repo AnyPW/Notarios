@@ -1,0 +1,16 @@
+# Ignorar archivos de configuración y de usuario
+*.local
+*.settings
+*.suo
+*.user
+*.userosscache
+*.userprefs
+
+# Ignorar carpetas de salida y temporales
+Output/
+Temp/
+Logs/
+
+# Ignorar archivos de compilación
+bin/
+obj/
